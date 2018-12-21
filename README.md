@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Katie.
+Front End Developer in training.
+JS, HTML, CSS focused.
